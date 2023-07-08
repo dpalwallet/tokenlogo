@@ -1,6 +1,10 @@
 {
-  "musk": {
-    "uri": "musk.png",
-    "description": "hahaha"
-  }
+  "dogim": {
+    "uri": "https://github.com/dpalwallet/logoasserts/blob/main/asserts/dogim.png",
+    "description": "May the force be with u"
+  },
+  "plsx": {
+    "uri": "https://github.com/dpalwallet/logoasserts/blob/main/asserts/plsx.png",
+    "description": "The pixelarian gang"
+  },
 }
