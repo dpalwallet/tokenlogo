@@ -1,10 +1,10 @@
 {
   "dogim": {
-    "uri": "https://github.com/dpalwallet/logoasserts/blob/main/asserts/dogim.png",
+    "uri": "https://raw.githubusercontent.com/dpalwallet/logoasserts/main/asserts/dogim.png",
     "description": "May the force be with u"
   },
   "plsx": {
-    "uri": "https://github.com/dpalwallet/logoasserts/blob/main/asserts/plsx.png",
+    "uri": "https://raw.githubusercontent.com/dpalwallet/logoasserts/main/asserts/plsx.png",
     "description": "The pixelarian gang"
   },
 }
