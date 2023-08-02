@@ -14,5 +14,9 @@
   "mzyd": {
     "uri": "https://raw.githubusercontent.com/dpalwallet/logoasserts/main/asserts/mzyd.png",
     "description": "the first test token"
+  },
+  "dpay": {
+    "uri": "https://raw.githubusercontent.com/dpalwallet/logoasserts/main/asserts/dpay.png",
+    "description": "maybe doge + pay? idk"
   }
 }
